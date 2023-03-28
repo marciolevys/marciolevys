@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 No momento estou trabalhando como servidor público em uma Autarquia Federal;<br>🤝 Estou a procura de oportunidades como iniciante de programação;<br>🌱 Estou aprendendo programação para me tornar um desenvolvedor full-stack.
 
 
